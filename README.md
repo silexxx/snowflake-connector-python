@@ -1,0 +1,2 @@
+# snowflake-connector-python
+If you are using snowflake and want to pull the data to a pandas data frame this will help.  This is for snowflake using Azure AD authentication (for easy use when you log in to snowflake using Azure AD Click the option to don't ask me again for 45 days so it will be easy to skip mobile verification again and again).  Also to log in to snowflake without using Azure AD just remove the authenticator parameter from the code.
